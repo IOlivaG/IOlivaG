@@ -21,4 +21,4 @@ I'm early in my research career, so the list is still short — but growing. You
 
 ## Links
 
-[CV](https://github.com/IOlivaG/IOlivaG/blob/main/CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=QosJQjUAAAAJ) · [LinkedIn](https://www.linkedin.com/in/isaacoliva23) · [Homepage](https://iolivag.github.io)
+[CV](https://github.com/IOlivaG/IOlivaG/blob/main/IsaacOlivaCV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=QosJQjUAAAAJ) · [LinkedIn](https://www.linkedin.com/in/isaacoliva23) · [Homepage](https://iolivag.github.io)
