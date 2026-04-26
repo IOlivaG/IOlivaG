@@ -10,8 +10,8 @@ Below are some of the projects I've been working on.
 
 Here are some things I've been working on:
 
-- [**Symmetry Reduction in Combinatorial Optimization**](https://github.com/IOlivaG/Symmetry-reduction-combinatorial-optimization) — Symmetry reduction applied to classical CO problems formulated as integer linear programs, including shortest path, graph coloring, max-cut, and TSP.
-- [**Symmetry Reduction in CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction) — Symmetry reduction applied to the Combined Cycle Min-Up/Min-Down Unit Commitment Problem using demand-aware lexicographic ordering.
+- [**Exploratory Study of Symmetry in Combinatorial Optimization**](https://github.com/IOlivaG/Symmetry-reduction-combinatorial-optimization) — Exploratory study of symmetry in classical combinatorial optimization problems formulated as integer linear programs, including shortest path, graph coloring, max-cut, and TSP.
+- [**Symmetry-Aware CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction) — Symmetry-aware MILP formulation of the Combined Cycle Min-Up/Min-Down Unit Commitment Problem, incorporating demand-aware lexicographic ordering to handle structural symmetries.
 
 ## Publications
 
