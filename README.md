@@ -1,12 +1,10 @@
 # Isaac Oliva-González
 
-Hi, I'm Isaac. I'm a graduate researcher in computer science with a background in chemical engineering, working on the mathematical structure of optimization problems and how it can be exploited algorithmically.
+Hi, I'm Isaac. I'm a graduate researcher in computer science with a background in chemical engineering, working on optimization problems across operations research and quantum computing.
 
-This work has gradually drawn me toward a deeper question: what is the mathematical structure underlying these problems, and how can it be exploited? Exploring that question has shaped my current research interests:
+My work focuses on mathematical programming models, combinatorial optimization, and hybrid quantum–classical methods.
 
-- Algebraic and graph-theoretic approaches to combinatorial optimization, including symmetry and group theory
-- Reformulation and decomposition methods for mathematical programming models
-- Quantum and hybrid quantum–classical optimization algorithms
+Below are some of the projects I've been working on.
 
 ## Projects
 
@@ -17,7 +15,7 @@ Here are some things I've been working on:
 
 ## Publications
 
-I'm early in my research career, so the list is still short — but growing. You can find everything on my [homepage](https://iolivag.github.io).
+I'm early in my research career, so the list is still short — but growing. Publications are listed on my homepage (https://iolivag.github.io) and directly at: https://iolivag.github.io/publications/.
 
 ## Links
 
