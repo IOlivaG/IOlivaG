@@ -2,9 +2,7 @@
 
 Hi, I'm Isaac. I'm a graduate researcher in computer science with a background in chemical engineering, working on optimization problems across operations research and quantum computing.
 
-My work focuses on mathematical programming models, combinatorial optimization, and hybrid quantum–classical methods.
-
-Below are some of the projects I've been working on.
+My work focuses on mathematical programming models, combinatorial optimization, and hybrid quantum–classical methods, with applications in energy and process systems. I also have experience with data-driven and machine learning models.
 
 ## Projects
 
@@ -15,7 +13,15 @@ Here are some things I've been working on:
 
 ## Publications
 
-I'm early in my research career, so the list is still short — but growing. Publications are listed on my homepage (https://iolivag.github.io) and directly at: https://iolivag.github.io/publications/.
+I'm early in my research career, so the list is still short — but growing. Selected publications are listed below. A complete and updated list is available on my homepage (https://iolivag.github.io) and directly at: https://iolivag.github.io/publications/.
+
+- **A Hybrid Quantum–Classical Machine Learning Framework for Black Carbon Forecasting** — *Journal Article*
+
+- **[A QUBO-Driven Simulated Annealing Methodology for the Shortest Path Problem in Urban Transportation Networks](https://doi.org/10.20944/preprints202511.0578.v1)** — *Preprint*
+
+- **Integrating Quantum Computing into Sustainable Carbon-Capture Materials Research: Opportunities and Perspectives** — *Book Chapter*
+
+- **[Computer-Aided Design of Intensified Separation Sequences for a Complex Mixture of Renewable Hydrocarbons](https://www.sciencedirect.com/science/article/abs/pii/B9780443288241502489)** — *Conference Proceeding*
 
 ## Links
 
