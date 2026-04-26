@@ -13,7 +13,7 @@ Here are some things I've been working on:
 
 ## Publications
 
-I'm early in my research career, so the list is still short — but growing. Selected publications are listed below. A complete and updated list is available on my homepage (https://iolivag.github.io) and directly at: https://iolivag.github.io/publications/.
+I'm early in my research career, so the list is still short, but growing. Selected publications are listed below. For a complete list, see the [publications section](https://iolivag.github.io/publications/) of my [homepage](https://iolivag.github.io).
 
 - **A Hybrid Quantum–Classical Machine Learning Framework for Black Carbon Forecasting** — *Journal Article*
 
