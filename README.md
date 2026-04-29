@@ -15,7 +15,7 @@ Here are some things I've been working on:
 
 I'm early in my research career, so the list is still short, but growing. Selected publications are listed below. For a complete list, see the [publications section](https://iolivag.github.io/publications/) of my [homepage](https://iolivag.github.io).
 
-- **A Hybrid Quantum–Classical Machine Learning Framework for Black Carbon Forecasting** — *Journal Article*
+- **[A Hybrid Quantum–Classical Machine Learning Framework for Black Carbon Forecasting](https://link.springer.com/article/10.1140/epjqt/s40507-026-00511-0)** — *Journal Article*
 
 - **[A QUBO-Driven Simulated Annealing Methodology for the Shortest Path Problem in Urban Transportation Networks](https://doi.org/10.20944/preprints202511.0578.v1)** — *Preprint*
 
