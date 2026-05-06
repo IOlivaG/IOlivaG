@@ -17,7 +17,7 @@ I'm early in my research career, so the list is still short, but growing. Select
 
 - **[A Hybrid Quantum–Classical Machine Learning Framework for Black Carbon Forecasting](https://link.springer.com/article/10.1140/epjqt/s40507-026-00511-0)** — *Journal Article*
 
-- **[A QUBO-Driven Simulated Annealing Methodology for the Shortest Path Problem in Urban Transportation Networks](https://doi.org/10.20944/preprints202511.0578.v1)** — *Preprint*
+- **[A QUBO-Driven Simulated Annealing Methodology for the Shortest Path Problem in Urban Transportation Networks](https://www.mdpi.com/1999-4893/19/5/352)** — *Journal Article*
 
 - **Integrating Quantum Computing into Sustainable Carbon-Capture Materials Research: Opportunities and Perspectives** — *Book Chapter*
 
