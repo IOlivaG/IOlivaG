@@ -8,9 +8,9 @@ My work focuses on mathematical programming models, combinatorial optimization, 
 
 Here are some things I've been working on:
 
-- [**Exploratory Study of Symmetry in Combinatorial Optimization**](https://github.com/IOlivaG/Symmetry-reduction-combinatorial-optimization) — Exploratory study of symmetry in classical combinatorial optimization problems formulated as integer linear programs, including shortest path, graph coloring, max-cut, and TSP.
-- [**Symmetry-Aware CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction) — Symmetry-aware MILP formulation of the Combined Cycle Min-Up/Min-Down Unit Commitment Problem, incorporating demand-aware lexicographic ordering to handle structural symmetries.
-- [**SDP-Symresack: Symmetry Handling in SDP**](https://github.com/IOlivaG/sdp-symresack-maxcut) — Explores whether lexicographic ordering from symresacks can be adapted from binary IP to semidefinite programming, using MaxCut on K3 as a worked example.
+- [**Exploratory Study of Symmetry in Combinatorial Optimization**](https://github.com/IOlivaG/Symmetry-reduction-combinatorial-optimization), exploratory study of symmetry in classical combinatorial optimization problems formulated as integer linear programs, including shortest path, graph coloring, max-cut, and TSP.
+- [**Symmetry-Aware CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction), symmetry-aware MILP formulation of the Combined Cycle Min-Up/Min-Down Unit Commitment Problem, incorporating demand-aware lexicographic ordering to handle structural symmetries.
+- [**SDP-Symresack: Symmetry Handling in SDP**](https://github.com/IOlivaG/sdp-symresack-maxcut), a small exploration of symmetry handling in SDP. Takes the idea behind symresacks (ordering symmetric variables to break symmetry in binary integer programs) and applies it to PSD matrices, using MaxCut on a 3-vertex graph as a worked example.
 
 ## Publications
 
