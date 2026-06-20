@@ -2,7 +2,7 @@
 
 Hi, I'm Isaac. I'm a graduate researcher in computer science with a background in chemical engineering, working on optimization problems across operations research and quantum computing.
 
-My work focuses on mathematical programming models, combinatorial optimization, and hybrid quantum–classical methods, with applications in energy and process systems. I also have experience with data-driven and machine learning models.
+My work focuses on mathematical programming models, including semidefinite programming, polynomial optimization, and combinatorial optimization, and hybrid quantum–classical methods, with applications in energy and process systems. I also have experience with data-driven and machine learning models.
 
 ## Projects
 
