@@ -1,8 +1,8 @@
 # Isaac Oliva-González
 
-Hi, I'm Isaac. I'm a graduate researcher in computer science with a background in chemical engineering, working on optimization problems across operations research and quantum computing.
+Hi, I'm Isaac. I work on mathematical optimization, with a background in chemical engineering.
 
-My work focuses on mathematical programming models, including semidefinite programming, polynomial optimization, and combinatorial optimization, and hybrid quantum–classical methods, with applications in energy and process systems. I also have experience with data-driven and machine learning models.
+My research focuses on mathematical programming and its structure, quantum and hybrid quantum-classical algorithms, and machine learning, with applications in energy and process systems.
 
 ## Projects
 
