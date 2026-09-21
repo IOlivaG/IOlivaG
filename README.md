@@ -2,7 +2,14 @@
 
 Hi, I'm Isaac. I work on mathematical optimization, with a background in chemical engineering.
 
-My research focuses on mathematical programming and its structure, quantum and hybrid quantum-classical algorithms, and machine learning, with applications in energy and process systems.
+My research focuses on mathematical programming and the structure of large-scale optimization problems, with applications in energy and process systems.
+
+## Research Interests
+
+- Optimization and operations research, including the algebraic and combinatorial structure of mathematical programs and symmetry reduction
+- Quantum algorithms: hybrid quantum-classical methods, quantum machine learning, and quantum annealing
+- Machine learning and data-driven methods for optimization
+- Applications in energy systems, process systems engineering, and large-scale optimization
 
 ## Projects
 
