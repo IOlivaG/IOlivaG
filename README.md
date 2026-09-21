@@ -21,9 +21,7 @@ Here are some things I've been working on:
 - [**Symmetry-Aware CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction), Study of symmetry reduction applied to the Combined Cycle Min-Up/Min-Down Unit Commitment Problem (CC-MUCP), deriving demand-aware lexicographic constraints to eliminate the wreath product symmetry induced by identical packages and gas turbines.
 - [**SDP-Symresack: Symmetry Handling in SDP**](https://github.com/IOlivaG/sdp-symresack-maxcut), Explores whether lexicographic ordering from symresacks can be adapted from binary integer programming to semidefinite programming, using MaxCut on K3 as a worked example.
 
-## Publications
-
-I'm early in my research career, so the list is still short, but growing.
+## Featured Research
 
 - **[A Hybrid Quantum-Classical Machine Learning Framework for Black Carbon Forecasting](https://link.springer.com/article/10.1140/epjqt/s40507-026-00511-0)** — *Journal Article*
 
