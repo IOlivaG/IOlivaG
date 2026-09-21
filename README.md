@@ -1,13 +1,17 @@
 # Isaac Oliva-González
 
-Hi, I'm Isaac. I work on mathematical optimization, with a background in chemical engineering.
+<p align="center">
+  <a href="https://iolivag.github.io/IsaacOlivaCV.pdf">CV (PDF)</a> · <a href="https://scholar.google.com/citations?user=QosJQjUAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0006-2174-8861">ORCID</a> · <a href="https://www.linkedin.com/in/isaacoliva23/">LinkedIn</a> · <a href="https://github.com/IOlivaG">GitHub</a> · <a href="https://iolivag.github.io">Personal website</a>
+</p>
 
-My research focuses on mathematical programming and the structure of large-scale optimization problems, with applications in energy and process systems.
+Hi, I'm Isaac. I work on mathematical optimization and operations research.
+
+I am particularly interested in the mathematical structure underlying optimization problems and in how exploiting that structure can lead to better formulations and solutions.
 
 ## Research Interests
 
-- Optimization and operations research, including the algebraic and combinatorial structure of mathematical programs and symmetry reduction
-- Quantum algorithms: hybrid quantum-classical methods, quantum machine learning, and quantum annealing
+- Optimization and operations research: discrete and combinatorial optimization, algebraic structure, and symmetry reduction
+- Quantum optimization and algorithms: hybrid quantum-classical methods, quantum machine learning, and quantum annealing
 - Machine learning and data-driven methods for optimization
 - Applications in energy systems, process systems engineering, and large-scale optimization
 
@@ -21,7 +25,7 @@ Here are some things I've been working on:
 
 ## Publications
 
-I'm early in my research career, so the list is still short, but growing. Selected publications are listed below. For a complete list, see the [publications section](https://iolivag.github.io/publications/) of my [homepage](https://iolivag.github.io).
+I'm early in my research career, so the list is still short, but growing.
 
 - **[A Hybrid Quantum-Classical Machine Learning Framework for Black Carbon Forecasting](https://link.springer.com/article/10.1140/epjqt/s40507-026-00511-0)** — *Journal Article*
 
@@ -31,6 +35,4 @@ I'm early in my research career, so the list is still short, but growing. Select
 
 - **[Computer-aided design of intensified separation sequences for a complex mixture of renewable hydrocarbons](https://www.sciencedirect.com/science/article/abs/pii/B9780443288241502489)** — *Conference Proceeding*
 
-## Links
-
-[CV](https://github.com/IOlivaG/IOlivaG/blob/main/IsaacOlivaCV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=QosJQjUAAAAJ) · [LinkedIn](https://www.linkedin.com/in/isaacoliva23/) · [Homepage](https://iolivag.github.io)
+> For a complete list, see the [publications section](https://iolivag.github.io/publications/) of my [personal website](https://iolivag.github.io).
