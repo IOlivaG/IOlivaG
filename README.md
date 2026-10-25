@@ -10,7 +10,7 @@ I build mathematical programming models for large-scale, structured problems, an
 
 ## Research Interests
 
-- Optimization and operations research: linear, mixed-integer, and network optimization; algebraic and combinatorial structure
+- Optimization and operations research: linear programming, mixed-integer programming, and network optimization; algebraic and combinatorial structure
 - Quantum optimization and algorithms: hybrid quantum-classical methods, quantum machine learning, and quantum annealing
 - Machine learning and data-driven methods for optimization
 - Applications: energy and process systems; scheduling, routing, production and capacity planning
