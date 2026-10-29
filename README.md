@@ -21,7 +21,6 @@ Here are some things I've been working on:
 
 - [**Exploratory Study of Symmetry in Combinatorial Optimization**](https://github.com/IOlivaG/Symmetry-reduction-combinatorial-optimization), Explores symmetry reduction techniques including lexicographic constraints, variable fixing, and automorphism-based methods applied to classical ILP problems such as shortest path, graph coloring, max-cut, and traveling salesman, reducing redundant solutions and simplifying the solution space.
 - [**Symmetry-Aware CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction), Study of symmetry reduction applied to the Combined Cycle Min-Up/Min-Down Unit Commitment Problem (CC-MUCP), deriving demand-aware lexicographic constraints to eliminate the wreath product symmetry induced by identical packages and gas turbines.
-- [**SDP-Symresack: Symmetry Handling in SDP**](https://github.com/IOlivaG/sdp-symresack-maxcut), Explores whether lexicographic ordering from symresacks can be adapted from binary integer programming to semidefinite programming, using MaxCut on K3 as a worked example.
 - [**Corrugator Production Scheduling**](https://github.com/IOlivaG/corrugator-production-scheduling), Mixed-integer programming model for corrugator production scheduling. Groups compatible orders into cutting patterns over discrete roll widths, minimizing setups subject to a trim-waste cap and a line-balance constraint.
 
 ## Featured Research
