@@ -19,9 +19,9 @@ I build mathematical programming models for large-scale, structured problems, an
 
 Here are some things I've been working on:
 
-- [**Exploratory Study of Symmetry in Combinatorial Optimization**](https://github.com/IOlivaG/Symmetry-reduction-combinatorial-optimization), Explores symmetry reduction techniques including lexicographic constraints, variable fixing, and automorphism-based methods applied to classical ILP problems such as shortest path, graph coloring, max-cut, and traveling salesman, reducing redundant solutions and simplifying the solution space.
-- [**Symmetry-Aware CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction), Study of symmetry reduction applied to the Combined Cycle Min-Up/Min-Down Unit Commitment Problem (CC-MUCP), deriving demand-aware lexicographic constraints to eliminate the wreath product symmetry induced by identical packages and gas turbines.
-- [**Corrugator Production Scheduling**](https://github.com/IOlivaG/corrugator-production-scheduling), Mixed-integer programming model for corrugator production scheduling. Groups compatible orders into cutting patterns over discrete roll widths, minimizing setups subject to a trim-waste cap and a line-balance constraint.
+- [**Exploratory Study of Symmetry in Combinatorial Optimization**](https://github.com/IOlivaG/Symmetry-reduction-combinatorial-optimization), Symmetry reduction for integer linear programs: lexicographic constraints, variable fixing, and automorphism-based methods applied to shortest path, graph coloring, max-cut, and TSP.
+- [**Symmetry-Aware CC Unit Commitment**](https://github.com/IOlivaG/CC-MUCP-symmetry-reduction), Symmetry reduction for the CC-MUCP via demand-aware lexicographic constraints on gas turbines within each package, lowering the number of equivalent optimal schedules while keeping packages distinct.
+- [**Corrugator Production Scheduling**](https://github.com/IOlivaG/corrugator-production-scheduling), Mixed-integer programming for corrugator scheduling: groups orders into cutting patterns over discrete roll widths, minimizing setups under trim-waste and line-balance constraints.
 
 ## Featured Research
 
